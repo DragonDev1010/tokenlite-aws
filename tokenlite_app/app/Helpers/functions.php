@@ -187,8 +187,8 @@ if (!function_exists('site_favicon')) {
     function site_favicon()
     {
         $fav_icon = asset('favicon.ico');
-        $fav_png1 = asset('favicon.png');
-        $fav_png2 = asset('images/favicon.png');
+        $fav_png1 = asset('planck_favicon.png');
+        $fav_png2 = asset('images/planck_favicon.png');
 
         $favicon = (file_exists($fav_icon)) ? $fav_icon : ((file_exists($fav_png1)) ? $fav_png1 : $fav_png2);
 
