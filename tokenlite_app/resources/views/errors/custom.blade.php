@@ -6,7 +6,7 @@
     <meta name="author" content="Softnio">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Not Found</title>
-    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/images/planck_favicon.png') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/vendor.bundle.css').css_js_ver() }}">
     <link rel="stylesheet" href="{{ asset('assets/css/style.css').css_js_ver() }}">
 </head>

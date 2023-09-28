@@ -158,14 +158,14 @@ if (!function_exists('site_logo')) {
         }
 
         $default_dark = [
-            'default' => 'images/logo.png',
-            'retina' => 'images/logo2x.png',
+            'default' => 'images/planck_logo.png',
+            'retina' => 'images/planck_logo2x.png',
             'mail' => 'images/logo-mail.png',
         ];
 
         $default_light = [
-            'default' => 'images/logo-light.png',
-            'retina' => 'images/logo-light2x.png',
+            'default' => 'images/planck_logo-light.png',
+            'retina' => 'images/planck_logo-light2x.png',
             'mail' => 'images/logo-mail.png',
         ];
 
